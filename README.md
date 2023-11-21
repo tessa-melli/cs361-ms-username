@@ -52,3 +52,5 @@ values = response_body['usernames']
 ```
 
 ## UML Diagram
+![username_uml](https://github.com/tessa-melli/cs361-ms-username/assets/72112957/f1e97d05-ce8a-46a6-89e7-7b98af8f5b22)
+
