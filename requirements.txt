@@ -1,0 +1,13 @@
+# Name: Tessa Melli
+# Date: 4/25/23
+# Course: CS493-400
+# Assignment: Assignment 3 - Build a Restful API
+
+# ***** BEGIN CITED CODE *****
+# The following code is not my own.
+# SOURCE: https://canvas.oregonstate.edu/courses/1915173/files/98341702?wrap=1
+# Description: Defining dependencies to run flask and datastore in the web app.
+
+Flask==3.0.0
+
+# ***** END CITED CODE *****
